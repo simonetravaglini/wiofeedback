@@ -12,6 +12,7 @@ With current code you can:
 - 3 - send data with serial connection
 - 4 - save data on csv on SD card
 
+NOTE: It's not a medical device
 
 Wiofeedback run on WIO terminal:
 https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/
