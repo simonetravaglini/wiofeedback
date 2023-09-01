@@ -7,10 +7,10 @@ In this moment device is working with GSR (Galvanic Skin Response), in the futur
 The project is based on open hardware and open source software.
 
 With current code you can:
-1 - track GSR signal, one every second (it's mean of 250 signals)
-2 - look at graph on terminal
-3 - send data with serial connection
-4 - save data on csv on SD card
+- 1 - track GSR signal, one every second (it's mean of 250 signals)
+- 2 - look at graph on terminal
+- 3 - send data with serial connection
+- 4 - save data on csv on SD card
 
 
 Wiofeedback run on WIO terminal:
