@@ -29,3 +29,8 @@ https://wiki.seeedstudio.com/Grove-GSR_Sensor/
 
 ![alt text](https://files.seeedstudio.com/wiki/Grove-GSR_Sensor/img/GSR.jpg)
 
+And HR ear clip sensor:
+https://wiki.seeedstudio.com/Grove-Ear-clip_Heart_Rate_Sensor/
+
+![alt text](https://files.seeedstudio.com/wiki/Grove-Ear-clip_Heart_Rate_Sensor/img/Heart_rate_ear_clip_kit.jpg)
+
