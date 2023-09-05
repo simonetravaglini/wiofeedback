@@ -2,7 +2,7 @@
 Biofeedback sketch for WIO (arduino based) terminal
 
 The purpose of this project is to create a low cost device to track biofeedback signals.
-In this moment device is working with GSR (Galvanic Skin Response), in the future we can add HR (hear rate) and EMG.
+In this moment device is working with GSR (Galvanic Skin Response), and HR (hear rate).
 
 The project is based on open hardware and open source software.
 
